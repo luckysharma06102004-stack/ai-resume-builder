@@ -283,15 +283,6 @@ Or connect your GitHub repo to Netlify for automatic deployments on push.
 
 ---
 
-## 📸 Screenshots
-
-> _Add screenshots of your builder, template selector, ATS score panel, and PDF export here._
-
-| Builder View | ATS Score | Template Preview |
-|---|---|---|
-| _(screenshot)_ | _(screenshot)_ | _(screenshot)_ |
-
----
 
 ## 🔮 Roadmap
 
